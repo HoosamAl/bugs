@@ -1,1 +1,1 @@
-<iframe src="https://raw.githubusercontent.com/HoosamAl/bugs/refs/heads/main/Bug"/>
+<iframe src="https://raw.githubusercontent.com/HoosamAl/bugs/refs/heads/main/Bug">
